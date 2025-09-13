@@ -1,0 +1,5 @@
+{
+  "name": "Account Verification Platform",
+  "description": "An account verification platform for the Ministry of Primary Health Care that shows the signal strength of the banking network and validates account details using AI.",
+  "requestFramePermissions": []
+}
